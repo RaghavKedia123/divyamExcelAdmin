@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+const kBgColor = Color(0xFFF8F7FA);
+const kBodyTextColor = Color(0xFF6F6B7D);
+const kSubTextColor = Color(0xFFA5A3AE);
+const kPrimaryColor = Color(0xFF7367F0);
+const kSidemenuBgColor = Color(0xFF685DD8);
+const kSidemenuHighlightColor = Color(0xFFEA5455);
+const kBorderColor = Color(0xFFDBDADE);
+const kRegularButtonBgColor = Color(0xFFF6F6FB);
+const kButtonTextColorDisabled = Color(0xFFB1AFB9);
+const kPrimaryButtonBgColor = Color(0xFF4AE4F5);
+const kHintTextColor = Color(0xFFC8C6CD);
+const kGreenTagBgColor = Color(0xFFDFF7E9);
+const kGreenTagTextColor = Color(0xFF28C76F);
+const kPurpleTagBgColor = Color(0xFFEAE8FD);
+const kPurpleTagTextColor = Color(0xFF7367F0);
+const kOrangeTagBgColor = Color(0xFFFFF1E3);
+const kOrangeTagTextColor = Color(0xFFFF9F43);
+const kCyanTagBgColor = Color(0xFFD9F8FC);
+const kCyanTagTextColor = Color(0xFF00CFE8);
+const kRedTagBgColor = Color(0xFFFCE5E6);
+const kRedTagTextColor = Color(0xFFEA5455);
+const kGreyTagBgColor = Color(0xFFF2F2F3);
+const kGreyTagTextColor = Color(0xFFA8AAAE);
